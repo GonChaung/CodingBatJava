@@ -365,7 +365,5 @@ front11([1, 7], []) → [1]
         }else return new int[0];
     }
 
-    /*
-    Thank for learning with me !
-     */
+    // Thanks for learning with me !
 }
