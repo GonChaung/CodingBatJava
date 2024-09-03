@@ -1,4 +1,4 @@
-package warmup;
+package warmUp;
 
 public class WarmUp_1 {
     /*
